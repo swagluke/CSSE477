@@ -1,0 +1,105 @@
+\documentclass[12pt,letterpaper,boxed]{hmcpset}
+\usepackage{float}
+\restylefloat{figure}
+\usepackage{graphicx}
+\usepackage{amsmath}
+
+
+\name{Lujia Zhang}
+\class{CSSE 477}
+\mailbox{CM 1405}
+\assignment{Paper Review 1}
+
+\begin{document}
+
+\begin{problem}[1. Why are extensible architectures important in modern-day applications?]
+\end{problem}
+
+Because extensible architectures allows software developers to productively develop high-quality applications without having to start everything from scratch/reinventing the wheel, rather integrating and building on existing plugins.
+\newline
+
+\begin{problem}[2. How are traditional plugins different from pure plugins?]
+\end{problem}
+
+Traditional plugins are not compiled into the host application. They are linked with host application via well-defined interfaces and waiting to be recognized and activated by host application when needed. \newline
+\indent
+In pure plugins, host application is a runtime engine that runs plugins with no inherent end-user functionality. Everything is a plugin. This architecture requires support the extensibility of the plugins by plugins. Each plugin itself becomes a host to other plugins by providing well-defined extension points where other plugins can add functionality.
+\newline
+
+\begin{problem}[3. What are extension points and extensions?]
+\end{problem}
+
+Extension points are the hook points that connects host plugins with other plugins. \newline
+\indent
+Extension is when a plug-in contributes an new implementation for an extension point.
+\newline
+
+\begin{problem}[4. Enumerate all of the critical services a kernel must support.]
+\end{problem}
+
+\begin{itemize}
+\item Finding, loading, and running the right plug-in code.
+\item Maintaining a registry of installed plug-ins and the functions they provide.
+\item Managing the plug-in extension model and inter-plug- in dependencies.
+\end{itemize}
+
+\begin{problem}[5. What makes Eclipse a universal pluggable architecture?]
+\end{problem}
+
+Eclipse is a runtime engine that itself is implemented as a number of core plug-ins, except for a tiny bootstrap code. 
+\newline
+
+\begin{problem}[6. Explain how Eclipse works in a few sentences.]
+\end{problem}
+
+Eclipse starts the core plug-ins to initialize the plug-in registry and the extension model and to resolve plug-in depen- dencies. Other than the core plug-ins, no other plug-in code is run at this time. All the needed plug-in metadata is read from the plug-in manifest files (plugin.xml and/or manifest.mf).
+
+\begin{problem}[7. Plugin-based applications offer a lot of flexibility for installation. However, this flexibility can also be a source of major headache. Explain how.]
+\end{problem}
+
+Plug-in- based applications may have a higher degree of freedom for installation layout and plug-in discovery. It made it hard to install and find the whole plug-in since only a partcial of the plugin can be access with different privileges.
+\newline
+
+\begin{problem}[8. Explain how Eclipse addresses the challenges raised in \#7.]
+\end{problem}
+
+Eclipse provides an Update Manager configurator plug-in that picks up plug-ins from the eclipse/plugins folder, as well as from other local plug-in folders linked from the eclipse/links folder or dynamically added when users install new plug-ins to locations of their choice.
+\newline
+
+\begin{problem}[9. Explain what difficulties may arise while installing or updating plugins.]
+\end{problem}
+
+Traditional installation issues that arise in any application—ability to roll back changes, migrate existing program data and preferences, or ensure the installation is not corrupted. \newline
+Since plug-ins can be originate from various providers that are not related to each other, it's possible that the resulting configuration has never been tested. So it's not reliable.\newline
+
+\begin{problem}[10. What are the security implications of pluggable applications?]
+\end{problem}
+
+\begin{itemize}
+\item Arbitrary plug-ins can be installed from the web, which allows unlimited access to the system.
+\item Some plug-ins require support for executing custom install code during installation, which allows access to the system.
+
+\end{itemize}
+
+\begin{problem}[11. Discuss what the author meant by “plugin hell” with an example. How does Eclipse approach this problem?]
+\end{problem}
+
+Having multiple versions of plug-in and dependencies to be concurrently installed and exectured at the machine.\newline
+\indent
+Eclipse has adopted a reasonable trade-off convention for concurrent plug-in versions: only versions of plug-ins that contribute code libraries but no plug-in extensions (no user interface contributions, no documentation, and so on) are allowed to coexist in the same runtime instance. For all the other plug-ins, the latest version is usually picked up, unless a configuration file precisely defines what to run.
+\newline
+
+\begin{problem}[12. What are some of the approaches to developing scale, pluggable applications?]
+\end{problem}
+
+When designing a plug-in system for scalability, developers must consider various mechanisms that make start-up faster and have a smaller memory footprint. Which requires support for plug-in declarative functionality.\newline
+\indent
+Introduce a packaging and installation component that groups a number of plug-ins to offer a higher level of function.
+\newline
+\begin{problem}[13. What do features mean to Eclipse ecosystem? Why are they important?]
+\end{problem}
+
+Features are bundles of plug-ins and are considered deployment units with install/update semantics, which will be processed by Eclipse Update Manager.\newline
+\indent
+Features are important because it helps Eclipse to solve the scalability problem when plug-in install/update perform.
+\end{document}

@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Homework1
+Bundle-SymbolicName: Homework1
+Bundle-Version: 1.0.0.alpha
+Bundle-Activator: homework1.Activator
+Bundle-Vendor: Rose-Hulman
+Bundle-RequiredExecutionEnvironment: JavaSE-1.8
+Import-Package: org.osgi.framework;version="1.8.0"

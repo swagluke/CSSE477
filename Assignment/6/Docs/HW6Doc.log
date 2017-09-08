@@ -1,0 +1,485 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.5.22)  9 JAN 2017 18:30
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**HW6Doc
+(./HW6Doc.tex
+LaTeX2e <2016/03/31>
+Babel <3.9r> and hyphenation patterns for 83 language(s) loaded.
+(./hmcpset.cls
+Document Class: hmcpset 2005/03/10 v0.04 HMC Math Dept problem set class
+(/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2016/05/14 v3.1 Provides the ifpdf switch
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
+(/usr/local/texlive/2016/texmf-dist/tex/latex/base/size12.clo
+File: size12.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/psnfss/mathpazo.sty
+Package: mathpazo 2005/04/12 PSNFSS-v9.2a Palatino w/ Pazo Math (D.Puga, WaS) 
+\symupright=\mathgroup4
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2016/03/10 v2.15b AMS math features
+\@mathmargin=\skip43
+
+For additional information on amsmath, use the `?' option.
+(/usr/local/texlive/2016/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks14
+\ex@=\dimen103
+))
+(/usr/local/texlive/2016/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen104
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count87
+LaTeX Info: Redefining \frac on input line 199.
+\uproot@=\count88
+\leftroot@=\count89
+LaTeX Info: Redefining \overline on input line 297.
+\classnum@=\count90
+\DOTSCASE@=\count91
+LaTeX Info: Redefining \ldots on input line 394.
+LaTeX Info: Redefining \dots on input line 397.
+LaTeX Info: Redefining \cdots on input line 518.
+\Mathstrutbox@=\box26
+\strutbox@=\box27
+\big@size=\dimen105
+LaTeX Font Info:    Redeclaring font encoding OML on input line 634.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 635.
+\macc@depth=\count92
+\c@MaxMatrixCols=\count93
+\dotsspace@=\muskip10
+\c@parentequation=\count94
+\dspbrk@lvl=\count95
+\tag@help=\toks15
+\row@=\count96
+\column@=\count97
+\maxfields@=\count98
+\andhelp@=\toks16
+\eqnshift@=\dimen106
+\alignsep@=\dimen107
+\tagshift@=\dimen108
+\tagwidth@=\dimen109
+\totwidth@=\dimen110
+\lineht@=\dimen111
+\@envbody=\toks17
+\multlinegap=\skip44
+\multlinetaggap=\skip45
+\mathdisplay@stack=\toks18
+LaTeX Info: Redefining \[ on input line 2739.
+LaTeX Info: Redefining \] on input line 2740.
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup5
+\symAMSb=\mathgroup6
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+(/usr/local/texlive/2016/texmf-dist/tex/latex/boxedminipage/boxedminipage.sty))
+(/usr/local/texlive/2016/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count99
+\float@exts=\toks19
+\float@box=\box28
+\@float@everytoks=\toks20
+\@floatcapt=\box29
+)
+\@float@every@figure=\toks21
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks22
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2016/05/09 v1.0r Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/01/02 v1.10 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 96.
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/pdftex-def/pdftex.def
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+(/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+(/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count100
+))
+\Gin@req@height=\dimen112
+\Gin@req@width=\dimen113
+)
+(./HW6Doc.aux)
+\openout1 = `HW6Doc.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Try loading font information for OT1+ppl on input line 13.
+ (/usr/local/texlive/2016/texmf-dist/tex/latex/psnfss/ot1ppl.fd
+File: ot1ppl.fd 2001/06/04 font definitions for OT1/ppl.
+)
+(/usr/local/texlive/2016/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count101
+\scratchdimen=\dimen114
+\scratchbox=\box30
+\nofMPsegments=\count102
+\nofMParguments=\count103
+\everyMPshowfont=\toks23
+\MPscratchCnt=\count104
+\MPscratchDim=\dimen115
+\MPnumerator=\count105
+\makeMPintoPDFobject=\count106
+\everyMPtoPDFconversion=\toks24
+) (/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2016/05/10 v0.21 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+
+(/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+))
+(/usr/local/texlive/2016/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+
+(/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+
+(/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+LaTeX Font Info:    Font shape `OT1/ppl/bx/n' in size <17.28> not available
+(Font)              Font shape `OT1/ppl/b/n' tried instead on input line 15.
+
+<1.png, id=1, 728.7225pt x 177.66376pt>
+File: 1.png Graphic file (type png)
+ <use 1.png>
+Package pdftex.def Info: 1.png used on input line 18.
+(pdftex.def)             Requested size: 390.0pt x 95.08034pt.
+
+<2.png, id=3, 356.33125pt x 107.40125pt>
+File: 2.png Graphic file (type png)
+ <use 2.png>
+Package pdftex.def Info: 2.png used on input line 22.
+(pdftex.def)             Requested size: 390.0pt x 117.55502pt.
+
+<3.png, id=4, 600.2425pt x 475.7775pt>
+File: 3.png Graphic file (type png)
+ <use 3.png>
+Package pdftex.def Info: 3.png used on input line 26.
+(pdftex.def)             Requested size: 390.0pt x 309.13554pt.
+
+<4.png, id=5, 592.2125pt x 469.755pt>
+File: 4.png Graphic file (type png)
+ <use 4.png>
+Package pdftex.def Info: 4.png used on input line 30.
+(pdftex.def)             Requested size: 390.0pt x 309.36548pt.
+ [1
+
+{/usr/local/texlive/2016/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./1.png
+> <./2.png>]
+<5.png, id=15, 393.47pt x 35.13126pt>
+File: 5.png Graphic file (type png)
+ <use 5.png>
+Package pdftex.def Info: 5.png used on input line 34.
+(pdftex.def)             Requested size: 390.0pt x 34.8213pt.
+ [2 <./3.png>]
+<6.png, id=20, 580.1675pt x 342.27875pt>
+File: 6.png Graphic file (type png)
+ <use 6.png>
+Package pdftex.def Info: 6.png used on input line 38.
+(pdftex.def)             Requested size: 390.0pt x 230.08807pt.
+
+<7.png, id=21, 371.3875pt x 93.34875pt>
+File: 7.png Graphic file (type png)
+ <use 7.png>
+Package pdftex.def Info: 7.png used on input line 42.
+(pdftex.def)             Requested size: 390.0pt x 98.02904pt.
+ [3 <./4.png> <./5.png>]
+<8.png, id=27, 592.2125pt x 488.82625pt>
+File: 8.png Graphic file (type png)
+ <use 8.png>
+Package pdftex.def Info: 8.png used on input line 46.
+(pdftex.def)             Requested size: 390.0pt x 321.92517pt.
+
+<9.png, id=28, 586.19pt x 470.75874pt>
+File: 9.png Graphic file (type png)
+ <use 9.png>
+Package pdftex.def Info: 9.png used on input line 50.
+(pdftex.def)             Requested size: 390.0pt x 313.20148pt.
+ [4 <./6.png> <./7.png>]
+<10.png, id=34, 586.19pt x 448.67625pt>
+File: 10.png Graphic file (type png)
+ <use 10.png>
+Package pdftex.def Info: 10.png used on input line 54.
+(pdftex.def)             Requested size: 390.0pt x 298.50974pt.
+ [5 <./8.png>]
+<11.png, id=39, 519.9425pt x 73.27374pt>
+File: 11.png Graphic file (type png)
+ <use 11.png>
+Package pdftex.def Info: 11.png used on input line 58.
+(pdftex.def)             Requested size: 390.0pt x 54.96074pt.
+ [6 <./9.png>]
+<12.png, id=44, 595.22375pt x 653.44125pt>
+File: 12.png Graphic file (type png)
+ <use 12.png>
+Package pdftex.def Info: 12.png used on input line 62.
+(pdftex.def)             Requested size: 390.0pt x 428.14175pt.
+ [7 <./10.png> <./11.png>] <13.png, id=51, 415.5525pt x 109.40875pt>
+File: 13.png Graphic file (type png)
+ <use 13.png>
+Package pdftex.def Info: 13.png used on input line 68.
+(pdftex.def)             Requested size: 390.0pt x 102.68562pt.
+
+<14.png, id=52, 426.59375pt x 128.48pt>
+File: 14.png Graphic file (type png)
+ <use 14.png>
+Package pdftex.def Info: 14.png used on input line 72.
+(pdftex.def)             Requested size: 390.0pt x 117.4659pt.
+ [8 <./12.png>]
+<15.png, id=57, 688.5725pt x 526.96875pt>
+File: 15.png Graphic file (type png)
+ <use 15.png>
+Package pdftex.def Info: 15.png used on input line 76.
+(pdftex.def)             Requested size: 390.0pt x 298.4696pt.
+
+<16.png, id=58, 693.59125pt x 364.36125pt>
+File: 16.png Graphic file (type png)
+ <use 16.png>
+Package pdftex.def Info: 16.png used on input line 80.
+(pdftex.def)             Requested size: 390.0pt x 204.88042pt.
+ [9 <./13.png> <./14.png>] <17.png, id=64, 450.68375pt x 337.26pt>
+File: 17.png Graphic file (type png)
+ <use 17.png>
+Package pdftex.def Info: 17.png used on input line 84.
+(pdftex.def)             Requested size: 390.0pt x 291.86482pt.
+
+<18.png, id=65, 682.55pt x 421.575pt>
+File: 18.png Graphic file (type png)
+ <use 18.png>
+Package pdftex.def Info: 18.png used on input line 88.
+(pdftex.def)             Requested size: 390.0pt x 240.88562pt.
+ [10 <./15.png> <./16.png>]
+<19.png, id=71, 428.60126pt x 448.67625pt>
+File: 19.png Graphic file (type png)
+ <use 19.png>
+Package pdftex.def Info: 19.png used on input line 92.
+(pdftex.def)             Requested size: 390.0pt x 408.26865pt.
+ [11 <./17.png>]
+<20.png, id=76, 682.55pt x 668.4975pt>
+File: 20.png Graphic file (type png)
+ <use 20.png>
+Package pdftex.def Info: 20.png used on input line 96.
+(pdftex.def)             Requested size: 390.0pt x 381.97577pt.
+ [12 <./18.png>]
+<21.png, id=81, 699.61375pt x 645.41125pt>
+File: 21.png Graphic file (type png)
+ <use 21.png>
+Package pdftex.def Info: 21.png used on input line 100.
+(pdftex.def)             Requested size: 390.0pt x 359.79305pt.
+ [13 <./19.png>]
+<22.png, id=87, 413.545pt x 113.42375pt>
+File: 22.png Graphic file (type png)
+ <use 22.png>
+Package pdftex.def Info: 22.png used on input line 104.
+(pdftex.def)             Requested size: 390.0pt x 106.96793pt.
+ [14 <./20.png>]
+<23.png, id=92, 446.66875pt x 174.6525pt>
+File: 23.png Graphic file (type png)
+ <use 23.png>
+Package pdftex.def Info: 23.png used on input line 108.
+(pdftex.def)             Requested size: 390.0pt x 152.4981pt.
+
+<24.png, id=93, 438.63875pt x 455.7025pt>
+File: 24.png Graphic file (type png)
+ <use 24.png>
+Package pdftex.def Info: 24.png used on input line 112.
+(pdftex.def)             Requested size: 390.0pt x 405.17758pt.
+ [15 <./21.png> <./22.png>] <25.png, id=99, 674.52pt x 499.8675pt>
+File: 25.png Graphic file (type png)
+ <use 25.png>
+Package pdftex.def Info: 25.png used on input line 116.
+(pdftex.def)             Requested size: 390.0pt x 289.02332pt.
+ [16 <./23.png>] [17 <./24.png>] <26.png, id=108, 698.61pt x 453.695pt>
+File: 26.png Graphic file (type png)
+ <use 26.png>
+Package pdftex.def Info: 26.png used on input line 123.
+(pdftex.def)             Requested size: 390.0pt x 253.27826pt.
+
+<27.png, id=109, 437.635pt x 627.34375pt>
+File: 27.png Graphic file (type png)
+ <use 27.png>
+Package pdftex.def Info: 27.png used on input line 127.
+(pdftex.def)             Requested size: 390.0pt x 559.06169pt.
+ [18 <./25.png>]
+<28.png, id=114, 688.5725pt x 241.90375pt>
+File: 28.png Graphic file (type png)
+ <use 28.png>
+Package pdftex.def Info: 28.png used on input line 131.
+(pdftex.def)             Requested size: 390.0pt x 137.01176pt.
+ [19 <./26.png>]
+Overfull \vbox (20.56169pt too high) has occurred while \output is active []
+
+
+[20 <./27.png>] <29.png, id=124, 455.7025pt x 674.52pt>
+File: 29.png Graphic file (type png)
+ <use 29.png>
+Package pdftex.def Info: 29.png used on input line 135.
+(pdftex.def)             Requested size: 390.0pt x 577.27638pt.
+
+<30.png, id=125, 359.3425pt x 225.84375pt>
+File: 30.png Graphic file (type png)
+ <use 30.png>
+Package pdftex.def Info: 30.png used on input line 139.
+(pdftex.def)             Requested size: 390.0pt x 245.13097pt.
+ [21 <./28.png>]
+Overfull \vbox (38.77638pt too high) has occurred while \output is active []
+
+
+[22 <./29.png>] <31.png, id=134, 513.92pt x 485.815pt>
+File: 31.png Graphic file (type png)
+ <use 31.png>
+Package pdftex.def Info: 31.png used on input line 143.
+(pdftex.def)             Requested size: 390.0pt x 368.67468pt.
+
+<32.png, id=135, 690.58pt x 474.77374pt>
+File: 32.png Graphic file (type png)
+ <use 32.png>
+Package pdftex.def Info: 32.png used on input line 147.
+(pdftex.def)             Requested size: 390.0pt x 268.12451pt.
+ [23 <./30.png>]
+<33.png, id=140, 436.63126pt x 112.42pt>
+File: 33.png Graphic file (type png)
+ <use 33.png>
+Package pdftex.def Info: 33.png used on input line 151.
+(pdftex.def)             Requested size: 390.0pt x 100.41371pt.
+ [24 <./31.png>]
+LaTeX Font Info:    Try loading font information for OML+zplm on input line 153
+.
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/psnfss/omlzplm.fd
+File: omlzplm.fd 2002/09/08 Fontinst v1.914 font definitions for OML/zplm.
+)
+LaTeX Font Info:    Try loading font information for OMS+zplm on input line 153
+.
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/psnfss/omszplm.fd
+File: omszplm.fd 2002/09/08 Fontinst v1.914 font definitions for OMS/zplm.
+)
+LaTeX Font Info:    Try loading font information for OMX+zplm on input line 153
+.
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/psnfss/omxzplm.fd
+File: omxzplm.fd 2002/09/08 Fontinst v1.914 font definitions for OMX/zplm.
+)
+LaTeX Font Info:    Try loading font information for OT1+zplm on input line 153
+.
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/psnfss/ot1zplm.fd
+File: ot1zplm.fd 2002/09/08 Fontinst v1.914 font definitions for OT1/zplm.
+)
+LaTeX Font Info:    Font shape `U/msa/m/n' will be
+(Font)              scaled to size 12.50409pt on input line 153.
+LaTeX Font Info:    Font shape `U/msa/m/n' will be
+(Font)              scaled to size 9.37807pt on input line 153.
+LaTeX Font Info:    Font shape `U/msa/m/n' will be
+(Font)              scaled to size 7.29405pt on input line 153.
+LaTeX Font Info:    Font shape `U/msb/m/n' will be
+(Font)              scaled to size 12.50409pt on input line 153.
+LaTeX Font Info:    Font shape `U/msb/m/n' will be
+(Font)              scaled to size 9.37807pt on input line 153.
+LaTeX Font Info:    Font shape `U/msb/m/n' will be
+(Font)              scaled to size 7.29405pt on input line 153.
+LaTeX Font Info:    Font shape `OT1/ppl/bx/n' in size <12> not available
+(Font)              Font shape `OT1/ppl/b/n' tried instead on input line 153.
+ [25 <./32.png> <./33.png>] [26] (./HW6Doc.aux) ) 
+Here is how much of TeX's memory you used:
+ 2769 strings out of 493014
+ 36555 string characters out of 6133351
+ 93099 words of memory out of 5000000
+ 6235 multiletter control sequences out of 15000+600000
+ 13912 words of font info for 42 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 37i,5n,28p,580b,234s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/local/texlive/2016/texmf
+-dist/fonts/enc/dvips/base/8r.enc}</usr/local/texlive/2016/texmf-dist/fonts/typ
+e1/urw/palatino/uplb8a.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/urw/
+palatino/uplr8a.pfb>
+Output written on HW6Doc.pdf (26 pages, 13999453 bytes).
+PDF statistics:
+ 164 PDF objects out of 1000 (max. 8388607)
+ 67 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 166 words of extra memory for PDF output out of 10000 (max. 10000000)
+
